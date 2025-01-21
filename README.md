@@ -1,0 +1,1 @@
+This repository contains a Tcl code example demonstrating a common stack overflow error in recursive procedures.  The `badproc` procedure lacks a proper termination condition, leading to infinite recursion. The solution demonstrates how to correctly handle the base case to avoid stack overflow. The solution is included in the bugSolution.tcl file.
